@@ -1,23 +1,23 @@
 // // Simulated product data
-// const products = [
-//     {
-//       id: 1,
-//       name: "Product 1",
-//       price: 10.00,
-//       image: "https://via.placeholder.com/200"
-//     },
-//     {
-//       id: 2,
-//       name: "Product 2",
-//       price: 20.00,
-//       image: "https://via.placeholder.com/200"
-//     },
-//     {
-//       id: 3,
-//       name: "Product 3",
-//       price: 30.00,
-//       image: "https://via.placeholder.com/200"
-//     }
+const products = [
+    {
+      id: 1,
+      name: "Product 1",
+      price: 10.00,
+      image: "https://via.placeholder.com/200"
+    },
+    {
+      id: 2,
+      name: "Product 2",
+      price: 20.00,
+      image: "https://via.placeholder.com/200"
+    },
+    {
+      id: 3,
+      name: "Product 3",
+      price: 30.00,
+      image: "https://via.placeholder.com/200"
+    }
     
 //   ];
   
