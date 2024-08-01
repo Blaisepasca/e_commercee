@@ -39,12 +39,7 @@ const products = [
     });
   }
   
-  // Function to add product to cart
-  function addToCart(productId) {
-    const product = products.find(p => p.id === productId);
-    cart.push(product);
-    updateCartCount();
-  }
+//   
   
   // Function to update cart count
   function updateCartCount() {
@@ -52,8 +47,8 @@ const products = [
     cartCount.innerText = cart.length;
   }
   
-  // Initializegit
-  document.addEventListener('DOMContentLoaded', () => {
-    displayProducts();
-  });
+//   // Initializegit
+//   document.addEventListener('DOMContentLoaded', () => {
+//     displayProducts();
+//   });
   
