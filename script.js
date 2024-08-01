@@ -47,8 +47,8 @@ const products = [
     cartCount.innerText = cart.length;
   }
   
-//   // Initializegit
-//   document.addEventListener('DOMContentLoaded', () => {
-//     displayProducts();
-//   });
+  // Initializegit
+  document.addEventListener('DOMContentLoaded', () => {
+    displayProducts();
+  });
   
